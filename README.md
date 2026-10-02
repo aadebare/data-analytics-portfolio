@@ -27,7 +27,7 @@ Tools: Python (Pandas, NumPy), Matplotlib
 ### Project 4 — UK Labour Market Post-Pandemic (Tableau)
 Interactive dashboard analysing UK employment trends 2000-2026
 Tools: Python (Pandas), Tableau Public
-[View Dashboard]([your_tableau_link](https://public.tableau.com/app/profile/adebowale.adebare/viz/UK_Labour_Market_Post_Pandemic_Analysis/Dashboard1?publish=yes))
+[View Dashboard](https://public.tableau.com/app/profile/adebowale.adebare/viz/UK_Labour_Market_Post_Pandemic_Analysis/Dashboard1?publish=yes)
 [View Project](./Project4_Labour_Market)
 
 ### Project 5 — GoldCare Connect Analytics Dashboard (Capstone)
