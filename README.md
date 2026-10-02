@@ -31,7 +31,11 @@ Tools: Python (Pandas), Tableau Public
 [View Project](./Project4_Labour_Market)
 
 ### Project 5 — GoldCare Connect Analytics Dashboard (Capstone)
-Coming soon ⏳
+End-to-end capstone combining CQC, NHS and Skills for Care data to identify 
+GoldCare Connect's £102.4M national market opportunity.
+Tools: Python (Pandas), MySQL, Tableau Public
+[View Dashboard](https://public.tableau.com/app/profile/adebowale.adebare/viz/GoldCareConnectNationalMarketAnalyticsDashboard/GoldCareConnectAnalytics?publish=yes)
+[View Project](./Project5_Capstone)
 
 ## Technical Skills
 - **SQL** — Joins, CTEs, Window Functions, Subqueries
