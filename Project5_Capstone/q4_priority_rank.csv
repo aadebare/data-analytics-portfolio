@@ -1,0 +1,10 @@
+Region,Total_Care_Homes,Vacancy_Rate_Pct,Turnover_Rate_Pct,Total_Saving,Priority_Score,Priority_Rank
+"South East",2579,7.7,27.2,19486924,93.6,1
+"South West",1740,7.3,27.9,13147440,80,2
+"North West",1713,7.3,26,12943428,77.6,3
+"East of England",1467,7.9,26.1,11084652,75.8,4
+"West Midlands",1514,7.7,25.9,11439784,75.6,5
+"East Midlands",1331,8,27.5,10057036,75.5,6
+London,1184,9.5,22.1,8946304,72.1,7
+"Yorkshire and the Humber",1340,6.6,27.7,10125040,71.4,8
+"North East",689,5.6,27.1,5206084,57.5,9
